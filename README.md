@@ -8,9 +8,6 @@
   <img src="./assets/portfolio-demo.gif" alt="Portfolio in action" width="800">
 </div>
 
-## 🚀 Live Demo
-👉 [View Live Portfolio](https://lakshayparashar.netlify.app) 👈
-
 ## ✨ Key Features
 
 ### 🎯 Core Highlights
