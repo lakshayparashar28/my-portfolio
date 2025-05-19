@@ -1,95 +1,78 @@
-# 💻 Lakshay Parashar | AI/ML & Full-Stack Developer Portfolio
+# 💼 Lakshay Parashar – Personal Portfolio Website
 
-[![Website Status](https://img.shields.io/website?url=https%3A%2F%2Flakshayparashar.netlify.app)](https://lakshayparashar.netlify.app)
-[![GitHub Stars](https://img.shields.io/github/stars/lakshayparashar28/portfolio)](https://github.com/lakshayparashar28/portfolio)
-![GitHub License](https://img.shields.io/badge/license-MIT-blue)
+Welcome to the official repository of my personal portfolio website!  
+This website is a showcase of who I am—my technical skills, major projects, experiences, and contact information—all designed with a modern and professional aesthetic.
 
-<div align="center">
-  <img src="./assets/portfolio-demo.gif" alt="Portfolio in action" width="800">
-</div>
+## 🔗 Live Website
 
-## ✨ Key Features
+🌐 [Visit My Portfolio](https://lakshayparashar.github.io)
 
-### 🎯 Core Highlights
-- **Blazing Fast** ⚡ (98/100 Lighthouse score)
-- **Pixel-Perfect** 🎨 Responsive Design
-- **Interactive** 🤹 Project Showcases
-- **Professional** 💼 CV Download Integration
+---
 
-### 🛠️ Tech Stack
-```javascript
-// Featured technical implementations:
-const techStack = {
-  frontend: ["HTML5", "CSS3", "JavaScript"],
-  animations: ["ScrollReveal", "CSS Keyframes"],
-  backend: ["Formspree", "Netlify Functions"],
-  tools: ["Git", "VS Code", "Figma"]
-};
+## 📌 Features
 
-<h2>📂 Project Structure</h2>
+- ⚡ Sleek, modern UI with animations and transitions
+- 🌙 Dark-themed design with blue-gradient accents
+- 📱 Fully responsive (Mobile, Tablet & Desktop)
+- 💻 Sections: About, Skills, Projects, Experience, Certifications, Resume, and Contact
+- 🔗 Integrated social media links (LinkedIn, GitHub, etc.)
+- 📄 Downloadable resume and working contact form
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML5, CSS3, JavaScript  
+- **Styling**: Custom CSS  
+- **Animations**: CSS transitions, scroll effects  
+- **Deployment**: GitHub Pages
+
+---
+
+## 📁 Folder Structure
 
 portfolio/
-├── assets/
-│   ├── images/          # WebP optimized assets
-│   ├── resume.pdf       # SEO-friendly CV
-│   └── demo.mp4         # Project walkthrough
-├── css/
-│   ├── main.css         # 4.8KB (gzipped)
-│   └── animations.css   # Performance-optimized
-├── js/
-│   ├── main.js          # Vanilla ES6+
-│   └── modals.js        # Interactive project views
-└── index.html           # 100/100 Accessibility
+├── assets/ # Images, resume, and icons
+├── css/ # Stylesheets
+├── js/ # JavaScript for interactivity
+├── index.html # Main webpage
+└── README.md # Project overview
 
-<h2>🏆 Featured Projects</h2>
 
-1. Heart Disease Predictor 🫀
-Tech: Python • Streamlit • Scikit-learn
+---
 
-Accuracy: 92% prediction rate
+## 🧠 What I Learned
 
-Demo: Live App
+- Designing clean, elegant, and professional UI/UX
+- Writing modular and maintainable HTML/CSS/JS code
+- Hosting and maintaining a personal website on GitHub Pages
+- Presenting my profile as a developer in a creative and impactful way
 
-Code: GitHub Repo
+---
 
-2. Flight Booking System ✈️
-Tech: Python • MySQL • Tkinter
+## 📸 Preview
 
-Features: Multi-user authentication • Seat mapping
+*(Add screenshots of your site UI here if hosting on GitHub)*
 
-Code: Available on request
+---
 
-3. This Portfolio Website 🎨
-Tech: Vanilla JS • CSS Grid • IntersectionObserver
+## 🚀 Run Locally
 
-Speed: 0.8s load time (3G simulation)
+To view the project locally on your machine:
 
-Innovation: Zero-dependency animations
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/LakshayParashar/lakshayparashar.github.io.git
+   cd lakshayparashar.github.io
 
-<h2>🧑‍💻 Installation</h2>
+## 🙋‍♂️ About Me
 
-# Clone repository (SSH)
-git clone git@github.com:lakshayparashar28/portfolio.git
+Lakshay Parashar
+B.Tech CSE Student | Web Developer | AI/ML Enthusiast
+📍 Amity University, Noida (Batch 2022–2026)
 
-# Install live server
-npm install -g live-server
+🔗 LinkedIn
 
-# Run locally
-live-server --port=3000
+🔗 GitHub
 
-<h2>🚀 Deployment Options</h2>
-
-1. Netlify: Drag-and-drop index.html
-
-2. Vercel: Connect GitHub repository
-
-3. GitHub Pages: Push to gh-pages branch
-
-<h2>📜 License</h2>
-
-MIT License - See LICENSE for details.
-
-<h2>📬 Contact Me</h2>
-
-<div align="center"> <a href="mailto:lakshayparashar28@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://linkedin.com/in/lakshay-parashar"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/lakshayparashar28"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </div>
-
+📧 lakshayparashar@gmail.com
