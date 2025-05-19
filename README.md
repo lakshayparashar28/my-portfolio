@@ -5,7 +5,7 @@ This website is a showcase of who I am—my technical skills, major projects, ex
 
 ## 🔗 Live Website
 
-🌐 [Visit My Portfolio](https://lakshayparashar.github.io)
+🌐 [Visit My Portfolio](https://lakshayparasharportfolio.netlify.app)
 
 ---
 
@@ -52,7 +52,7 @@ portfolio/
 
 ## 📸 Preview
 
-*(Add screenshots of your site UI here if hosting on GitHub)*
+![alt text](image.png)
 
 ---
 
@@ -62,8 +62,8 @@ To view the project locally on your machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LakshayParashar/lakshayparashar.github.io.git
-   cd lakshayparashar.github.io
+   git clone https://github.com/LakshayParashar/lakshayparashar28.github.io.git
+   cd lakshayparashar28.github.io
 
 ## 🙋‍♂️ About Me
 
