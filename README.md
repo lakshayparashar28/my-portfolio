@@ -75,4 +75,4 @@ B.Tech CSE Student | Web Developer | AI/ML Enthusiast
 
 🔗 GitHub
 
-📧 lakshayparashar@gmail.com
+📧 lakshayparashar28@gmail.com
